@@ -1,0 +1,6 @@
+data_*.csv
+*.ipynb
+*.log
+_ejecutar.py
+capturas/
+__pycache__/
