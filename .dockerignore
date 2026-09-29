@@ -1,3 +1,5 @@
+#evita que Docker copie data_X.csv —que es muy grande—, data_Y.csv, el notebook y otros archivos de trabajo dentro de la imagen.
+
 data_*.csv
 *.ipynb
 *.log
